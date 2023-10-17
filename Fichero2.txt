@@ -1,1 +1,2 @@
-Este es el segundo fichero
+Este es el segundo fichero.
+Nuevo cambio
